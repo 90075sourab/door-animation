@@ -4,3 +4,4 @@ used in my project
 2.css (method ) jquery
 3.play (method) jquery
 4.remove jquery function
+5.load method jquery
