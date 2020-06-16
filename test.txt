@@ -3,4 +3,4 @@ used in my project
 1.animate (method) jquery
 2.css (method ) jquery
 3.play (method) jquery
-
+4.remove jquery function
