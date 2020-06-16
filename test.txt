@@ -2,3 +2,5 @@ this is my text file which have a list of java script and jquery function
 used in my project
 1.animate (method) jquery
 2.css (method ) jquery
+3.play (method) java script
+
